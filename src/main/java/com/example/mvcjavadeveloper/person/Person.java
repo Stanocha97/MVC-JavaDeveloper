@@ -7,7 +7,7 @@ public class Person {
     public String username;
     public String email;
 
-    public boolean enabled;
+    public boolean enabled; //test
     public Date lastLoginDate;
 
     public Person(Integer id, String email, String username, boolean enabled, Date lastLoginDate) {
